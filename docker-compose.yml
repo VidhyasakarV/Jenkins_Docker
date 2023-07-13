@@ -1,0 +1,6 @@
+version: '3'
+services:
+  application:
+    build: .
+    ports:
+      - "2222:2222"
