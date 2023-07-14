@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="contain one api.">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/docker_jenkins/dj/Api/V1Api.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/docker_jenkins/dj/DjApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/docker_jenkins/dj/DjApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/docker_jenkins/dj/Api/V1Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/docker_jenkins/dj/DjApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/docker_jenkins/dj/DjApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +67,7 @@
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "27a5773a603825cc6999e48cc2b1b270",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689240943884</updated>
-      <workItem from="1689240945197" duration="7198000" />
+      <workItem from="1689240945197" duration="8282000" />
+      <workItem from="1689312915581" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
