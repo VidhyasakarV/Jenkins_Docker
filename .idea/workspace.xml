@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Made changes in api.">
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changes in compose file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/docker_jenkins/dj/DjApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/docker_jenkins/dj/DjApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,8 @@
       <updated>1689240943884</updated>
       <workItem from="1689240945197" duration="8282000" />
       <workItem from="1689312915581" duration="10230000" />
-      <workItem from="1689585285617" duration="6552000" />
+      <workItem from="1689585285617" duration="8393000" />
+      <workItem from="1689657562456" duration="5623000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -175,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689327544147</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="17.">
+      <option name="closed" value="true" />
+      <created>1689597086191</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689597086191</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes in compose file.">
+      <option name="closed" value="true" />
+      <created>1689602992169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689602992169</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +209,8 @@
     <MESSAGE value="contain one api." />
     <MESSAGE value="Dockerfile changed." />
     <MESSAGE value="Made changes in api." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made changes in api." />
+    <MESSAGE value="17." />
+    <MESSAGE value="changes in compose file." />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in compose file." />
   </component>
 </project>

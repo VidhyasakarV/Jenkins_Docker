@@ -3,5 +3,5 @@ services:
   application:
     build: .
     ports:
-      - "2222:2222"
+      - "2222:1111"
     network_mode: host
