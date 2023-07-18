@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changes in docker file.">
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Api content changed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/DJ-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <workItem from="1689240945197" duration="8282000" />
       <workItem from="1689312915581" duration="10230000" />
       <workItem from="1689585285617" duration="8393000" />
-      <workItem from="1689657562456" duration="10151000" />
+      <workItem from="1689657562456" duration="12443000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -197,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689672578607</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Api content changed.">
+      <option name="closed" value="true" />
+      <created>1689680036787</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689680036787</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +227,7 @@
     <MESSAGE value="17." />
     <MESSAGE value="changes in compose file." />
     <MESSAGE value="changes in docker file." />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in docker file." />
+    <MESSAGE value="Api content changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Api content changed." />
   </component>
 </project>
