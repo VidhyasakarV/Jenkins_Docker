@@ -1,7 +1,10 @@
 version: '3'
 services:
   application:
-    build: .
+    image: jenk_doc:latest
+#    build: .
     ports:
-      - "2222:1111"
+      - "1111:1111/tcp"
+      - "5555:8888/tcp"
+#      - ":::5555:8888/tcp"
     network_mode: host
