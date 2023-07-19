@@ -8,7 +8,7 @@ public class Api {
 
     @GetMapping("/v1")
     public String app(){
-        return "...?";
+        return "What..?";
     }
 
 }
