@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Api content changed.">
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Docker content changed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,8 @@
       <workItem from="1689240945197" duration="8282000" />
       <workItem from="1689312915581" duration="10230000" />
       <workItem from="1689585285617" duration="8393000" />
-      <workItem from="1689657562456" duration="12443000" />
+      <workItem from="1689657562456" duration="13912000" />
+      <workItem from="1689743751744" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -203,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689680036787</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Docker content changed.">
+      <option name="closed" value="true" />
+      <created>1689682353717</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1689682353717</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +237,7 @@
     <MESSAGE value="changes in compose file." />
     <MESSAGE value="changes in docker file." />
     <MESSAGE value="Api content changed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Api content changed." />
+    <MESSAGE value="Docker content changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Docker content changed." />
   </component>
 </project>
