@@ -11,4 +11,9 @@ public class Api {
         return "What..?";
     }
 
+    @GetMapping("/v2")
+    public String app2(){
+        return "Heyy..?";
+    }
+
 }
