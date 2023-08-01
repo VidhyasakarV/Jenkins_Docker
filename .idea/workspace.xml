@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="docker comments changed in Jenkinsfile.">
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="docker lines changed in Jenkinsfile.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="5810000" />
+      <workItem from="1690872124422" duration="6907000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -383,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690884367546</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="docker lines changed in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690885274072</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1690885274072</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,6 +426,7 @@
     <MESSAGE value="changes in Jenkinsfile." />
     <MESSAGE value="docker comment changed in Jenkinsfile." />
     <MESSAGE value="docker comments changed in Jenkinsfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="docker comments changed in Jenkinsfile." />
+    <MESSAGE value="docker lines changed in Jenkinsfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="docker lines changed in Jenkinsfile." />
   </component>
 </project>
