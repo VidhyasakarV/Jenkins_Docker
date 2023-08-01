@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Second changes in Jenkinsfile." />
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="docker repo change in Jenkinsfile.">
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +124,7 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="3260000" />
+      <workItem from="1690872124422" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -316,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690881991214</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="docker repo change in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690882735206</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1690882735206</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +359,7 @@
     <MESSAGE value="Jenkinsfile added." />
     <MESSAGE value="changes in Jenkinsfile." />
     <MESSAGE value="Second changes in Jenkinsfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second changes in Jenkinsfile." />
+    <MESSAGE value="docker repo change in Jenkinsfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="docker repo change in Jenkinsfile." />
   </component>
 </project>
