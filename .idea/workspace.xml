@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changes in Jenkinsfile." />
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Second changes in Jenkinsfile." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +122,7 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="2497000" />
+      <workItem from="1690872124422" duration="3260000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -308,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690881668818</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Second changes in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690881991214</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690881991214</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +348,7 @@
     <MESSAGE value="Api added." />
     <MESSAGE value="Jenkinsfile added." />
     <MESSAGE value="changes in Jenkinsfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in Jenkinsfile." />
+    <MESSAGE value="Second changes in Jenkinsfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second changes in Jenkinsfile." />
   </component>
 </project>
