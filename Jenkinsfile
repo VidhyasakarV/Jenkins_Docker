@@ -22,8 +22,14 @@ pipeline {
                     withDockerRegistry(credentialsId: 'docker02') {
                         sh "docker build -t mbpl ."
                         sh "docker push mbpl"
-                        sh "docker run -d -p 5555:8888 --name container_mbpl mbpl"
                     }
+                }
+            }
+        }
+        stage('Docker run') {
+            steps {
+                script{
+                    sh "docker run -d -p 5555:8888 --name container_mbpl mbpl"
                 }
             }
         }
