@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="Jenkinsfile added.">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +124,7 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="1087000" />
+      <workItem from="1690872124422" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -296,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690437976253</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Jenkinsfile added.">
+      <option name="closed" value="true" />
+      <created>1690874277076</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690874277076</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
