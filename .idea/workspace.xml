@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="docker repo change in Jenkinsfile.">
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changes in Jenkinsfile.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,7 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="3609000" />
+      <workItem from="1690872124422" duration="4517000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -326,7 +327,31 @@
       <option name="project" value="LOCAL" />
       <updated>1690882735206</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="changes in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690883090942</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1690883090942</updated>
+    </task>
+    <task id="LOCAL-00027" summary="changes in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690883149353</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1690883149353</updated>
+    </task>
+    <task id="LOCAL-00028" summary="changes in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690883184248</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1690883184248</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,9 +382,9 @@
     <MESSAGE value="Api2 added." />
     <MESSAGE value="Api added." />
     <MESSAGE value="Jenkinsfile added." />
-    <MESSAGE value="changes in Jenkinsfile." />
     <MESSAGE value="Second changes in Jenkinsfile." />
     <MESSAGE value="docker repo change in Jenkinsfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="docker repo change in Jenkinsfile." />
+    <MESSAGE value="changes in Jenkinsfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in Jenkinsfile." />
   </component>
 </project>
