@@ -21,6 +21,7 @@ pipeline {
                 script{
                     withDockerRegistry(credentialsId: 'docker02') {
                         sh "docker-compose build"
+                        sh "docker push vidhyasakar/mbpl"
                     }
                 }
             }
@@ -28,8 +29,7 @@ pipeline {
         stage('Docker run') {
             steps {
                 script{
-                        sh "docker push mbpl"
-                    sh "docker run -d -p 5555:8888 --name container_mbpl mbpl"
+                    sh "docker run -d -p 5555:8888 --name container_mbpl vidhyasakar/mbpl"
                 }
             }
         }
