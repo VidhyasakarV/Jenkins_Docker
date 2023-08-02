@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changed in Jenkinsfile." />
+    <list default="true" id="96beea73-9521-4590-af73-83a0b0224530" name="Changes" comment="changes in Jenkinsfile.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +125,8 @@
       <workItem from="1690347505917" duration="1958000" />
       <workItem from="1690433182481" duration="5318000" />
       <workItem from="1690798706560" duration="2409000" />
-      <workItem from="1690872124422" duration="7574000" />
+      <workItem from="1690872124422" duration="8745000" />
+      <workItem from="1690955262582" duration="557000" />
     </task>
     <task id="LOCAL-00001" summary="contain one api.">
       <option name="closed" value="true" />
@@ -396,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690887278178</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="changes in Jenkinsfile.">
+      <option name="closed" value="true" />
+      <created>1690889409057</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1690889409057</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,11 +441,11 @@
     <MESSAGE value="Jenkinsfile added." />
     <MESSAGE value="Second changes in Jenkinsfile." />
     <MESSAGE value="docker repo change in Jenkinsfile." />
-    <MESSAGE value="changes in Jenkinsfile." />
     <MESSAGE value="docker comment changed in Jenkinsfile." />
     <MESSAGE value="docker comments changed in Jenkinsfile." />
     <MESSAGE value="docker lines changed in Jenkinsfile." />
     <MESSAGE value="changed in Jenkinsfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="changed in Jenkinsfile." />
+    <MESSAGE value="changes in Jenkinsfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in Jenkinsfile." />
   </component>
 </project>

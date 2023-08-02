@@ -20,8 +20,7 @@ pipeline {
             steps {
                 script{
                     withDockerRegistry(credentialsId: 'docker02') {
-                        sh "docker build -t mbpl ."
-                        sh "docker push mbpl"
+                        sh "docker build -t ."
                     }
                 }
             }
@@ -29,6 +28,7 @@ pipeline {
         stage('Docker run') {
             steps {
                 script{
+                        sh "docker push mbpl"
                     sh "docker run -d -p 5555:8888 --name container_mbpl mbpl"
                 }
             }
