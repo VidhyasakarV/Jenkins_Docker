@@ -29,7 +29,9 @@ pipeline {
         stage('Docker run') {
             steps {
                 script{
+                    withDockerRegistry(credentialsId: 'docker02', toolName: 'docker', url: 'https://hub.docker.com/u/vidhyasakar'){
                     sh "docker run -d -p 5555:8888 --name container_mbpl vidhyasakar/mbpl"
+                    }
                 }
             }
         }
