@@ -20,7 +20,7 @@ pipeline {
             steps {
                 script{
                     withDockerRegistry(credentialsId: 'docker02') {
-                        sh "docker-compose build"
+                        sh "docker build -t mbpl"
                         sh "docker push mbpl"
                     }
                 }
