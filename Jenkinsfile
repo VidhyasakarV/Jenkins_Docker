@@ -29,7 +29,7 @@ pipeline {
         stage('Docker run') {
             steps {
                 script{
-                    withDockerRegistry(credentialsId: 'docker02'){
+                    withDockerRegistry(credentialsId: 'docker02' ){
                         sh "docker run -d -p 5555:8888 --name container_mbpl vidhyasakar/mbpl"
                     }
                 }
